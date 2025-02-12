@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Yahya Halim
-- 👀 I’m interested in ssoftware engineering 
+- 👀 I’m interested in software development 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me? wave your arms 
-- 😄 Pronouns: hahaha
 - ⚡ Fun fact: I'm the joker 🃏 
 
 <!---
